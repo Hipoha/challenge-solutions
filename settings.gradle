@@ -1,0 +1,4 @@
+rootProject.name = 'challenge-solutions'
+include 'gradle-using'
+findProject(':gradle-using')?.name = 'challenge-solutions'
+

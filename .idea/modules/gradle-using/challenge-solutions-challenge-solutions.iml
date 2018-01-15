@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":challenge-solutions" external.linked.project.path="$MODULE_DIR$/../../../gradle-using" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="gradle-using" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../gradle-using">
+      <excludeFolder url="file://$MODULE_DIR$/../../../gradle-using/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../gradle-using/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../gradle-using/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

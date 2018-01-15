@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06_Zadania_dodatkowe-challenge-solutions.iml" filepath="$PROJECT_DIR$/.idea/modules/06_Zadania_dodatkowe-challenge-solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/challenge-solutions.iml" filepath="$PROJECT_DIR$/.idea/modules/challenge-solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-using/challenge-solutions-challenge-solutions.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-using/challenge-solutions-challenge-solutions.iml" group="challenge-solutions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-using/challenge-solutions-challenge-solutions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-using/challenge-solutions-challenge-solutions_main.iml" group="challenge-solutions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-using/challenge-solutions-challenge-solutions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-using/challenge-solutions-challenge-solutions_test.iml" group="challenge-solutions" />
+    </modules>
+  </component>
+</project>
